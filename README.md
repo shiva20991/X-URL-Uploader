@@ -5,6 +5,11 @@ Telegram RoBot to Upload Links.
 
 **Features**:
 
+<p align="">
+    <a href="https://heroku.com/deploy?template=https://github.com/shiva20991/X-URL-Uploader"> <!--- replace your forked link -->
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="herokudeploy-01" border="0" height="60" width="200"></a>
+</p>
+
 👉 Only Auth Users (AUTH_USERS) Can Use The Bot
 
 👉 Upload [YTDL Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
